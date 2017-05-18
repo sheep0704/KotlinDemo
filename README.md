@@ -11,6 +11,6 @@ Kotlin  demo，sample，测试，引入，apk 逆向 smali 格式查看 ，Kotl
 
 **QQ:** 309933706 <br/>
 
-**QQ群:** 251868324 <br/>
+**QQ群:**  246231638 <br/>
 
 Email:dujin_dudu@163.com
