@@ -1,12 +1,9 @@
 # KotlinDemo
-Kotlin  demo，sample，测试，引入，
-
+Kotlin  demo，sample，测试，引入，apk 逆向 smali 格式查看 ，Kotlin 语言。
  
-apk 逆向 smali 格式查看 ，Kotlin 语言
 
 
-
-
+<br/><hr/>
 
 关于作者
 ==
