@@ -3,7 +3,7 @@ Kotlin  demo，sample，测试，引入，apk 逆向 smali 格式查看 ，Kotl
  
 ## Kotlin Desc
 - <a href="http://blog.csdn.net/DJY1992/article/details/72485381" target="_blank">AndroidStudio 详解Kotlin的安装和使用</a>
-<br/>     
+    
 ## Kotlin Convert 
 
    
@@ -45,8 +45,8 @@ class MainActivity : AppCompatActivity() {
 
 <br/> <br/> 
 
-关于作者
-==
+## About author
+
 <br/>
 
 **QQ:** 309933706 <br/>
