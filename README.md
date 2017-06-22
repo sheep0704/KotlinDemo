@@ -2,8 +2,13 @@
 Kotlin  demo，sample，测试，引入，apk 逆向 smali 格式查看 ，Kotlin 语言。
  
 ## Kotlin Desc
+
 - <a href="http://blog.csdn.net/DJY1992/article/details/72485381" target="_blank">AndroidStudio 详解Kotlin的安装和使用</a>
-    
+
+- <a href="https://github.com/sheep0704/KotlinDemo/tree/master/apk/" target="_blank">AndroidStudio 详解Kotlin APK 下载</a>
+
+
+
 ## Kotlin Convert 
 
    
